@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ayush Pandita</h1>
+<h1 align="center">👾 Ayush Pandita.exe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=AI+%7C+FinTech+%7C+ML+Engineer;Building+Multi-Agent+Systems;Quant+%7C+LLMs+%7C+Automation;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Initializing...;AI+%7C+FinTech+%7C+ML+Engineer;Loading+Multi-Agent+Systems...;System+Ready" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AP4549&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AP4549&label=PROFILE+VIEWS&color=00ff00&style=flat" />
 </p>
 
 ---
@@ -121,23 +121,16 @@ Docker | Git | Ollama | SQLite
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AP4549&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AP4549&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AP4549&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=AP4549&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AP4549&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AP4549&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AP4549&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -148,6 +141,6 @@ Docker | Git | Ollama | SQLite
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-I build systems that don’t just predict — they **decide, adapt, and act** 🚀
+> "Don't just predict the future — build systems that shape it."
