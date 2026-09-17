@@ -10,86 +10,91 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-🎓 4th Year B.Tech Data Science Student @ NMIMS (MPSTME)  
-💡 Focused on **AI, Machine Learning & Financial Technology**  
-🚀 Building **multi-agent systems & intelligent automation platforms**  
+ Masters in Financial Technology (IPA) -  Student at Nanyang Technological University (@SPMS)  
+ Focused on **AI, Machine Learning & Financial Technology**  
+ Building **multi-agent systems & intelligent automation platforms**  
 
-- 🔭 Currently working on: AI Customer Support Systems  
-- 🌱 Exploring: Quant Finance + LLM Architectures  
-- ⚡ Philosophy: *Build systems that decide, not just predict*  
-
----
-
-## 🔗 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ayush-pandita-03b2a224b  
-- 💻 GitHub: https://github.com/AP4549  
-- 📧 Email: panditaayush4549@gmail.com
+-  Currently working on: Pre-print - Multi-Source FX Analytics and Predictive Modeling: A Practical Pipeline for Spot Forex Pairs (EUR/USD, GBP/USD, USD/JPY, USD/CHF) 
+-  Exploring: Quant Finance + LLM Architectures  
+-  Philosophy: *Build systems that decide, not just predict*  
 
 ---
 
-## 🚀 Projects
+##  Connect with Me
 
-### 🤖 AI Customer Support System (Multi-Agent)
+-  LinkedIn: https://www.linkedin.com/in/ayush-pandita-03b2a224b  
+-  GitHub: https://github.com/AP4549  
+-  Email: panditaayush4549@gmail.com
+
+---
+
+##  Projects
+
+###  AI Customer Support System (Multi-Agent)
 - Multi-agent system using **Ollama (on-prem LLM)**  
 - Automates summarization, routing, resolution  
 - Tech: React + Flask + SQLite   
 
 ---
 
-### 📊 Forex Future Prediction
+###  Forex Future Prediction
 - ML-based FX forecasting system  
 - Focus on analytics + visualization  
 
 ---
 
-### 🧠 ParkiSense
+###  ParkiSense
 - AI-powered Parkinson’s detection system  
 - Uses keystroke + voice + chatbot  
 
 ---
 
-### 📈 Chart Whisper
+###  Chart Whisper
 - AI tool to analyze charts & answer questions  
 - Built using TypeScript + AI  
 
 ---
 
-### ⚽ Premier League Classification
+###  Premier League Classification
 - CNN-based sports image classification  
 - Focus on model benchmarking  
 
 ---
 
-## 📄 Research Work
+###  Esg Sector Fund Lab
+- Experimentation Sandbox created to compare two Mutual Funds 
+- Focus on most optimal Combination of Inputs ie Holdings
+- Focused on Market Research on Indian Economical System 
 
-### 🧾 IEEE Conference Publication
+##  Research Work
+
+###  IEEE Conference Publication
 
 **An End-to-End AI Framework for Multilingual Financial Assistance and Inclusion**  
-📍 *2025 International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)*  
-🏢 Publisher: IEEE  
-📌 DOI: https://doi.org/10.1109/ICRCICN68210.2025.11364961  
+*2025 International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)*  
+Publisher: IEEE  
+DOI: https://doi.org/10.1109/ICRCICN68210.2025.11364961  
 
 **Authors:** Ayush Pandita, Nathan Dsouza, Emil Pereira, Kshamta Mathur  
 
-🔍 Highlights:
+ Highlights:
 - Built **Credit Mate** (multilingual AI financial assistant)  
 - Integrated Whisper + Translate API + Fine-tuned LLM  
-- 🚀 +30% accuracy improvement (LoRA fine-tuning)  
-- ⚡ Low latency: 1.8–3.2s  
-- 🌍 Tested across English, Hindi, Hinglish  
+-  +30% accuracy improvement (LoRA fine-tuning)  
+-  Low latency: 1.8–3.2s  
+-  Tested across English, Hindi, Hinglish  
 
 ---
 
-### 📊 FX Analytics & Predictive Modeling (SSRN)
+###  FX Analytics & Predictive Modeling (SSRN)
 
 **Multi-Source FX Analytics and Predictive Modeling**  
-📍 NMIMS University  
-📄 https://ssrn.com/abstract=5439634  
+ NMIMS University  
+ https://ssrn.com/abstract=5439634  
 
-🔍 Highlights:
+ Highlights:
 - Built full pipeline:
   - Multi-source ingestion  
   - LSTM forecasting  
@@ -98,26 +103,26 @@
 - Dataset: ~10 years FX data  
 - Focus: reproducibility + real-world trading systems  
 
-📌 Status: *Working Paper / Preprint*  
+ Status: *Working Paper / Preprint*  
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 **Languages**  
-Python | TypeScript | SQL  
+Python | TypeScript | SQL | R
 
 **Frontend**  
-React | Vite | Tailwind CSS  
+React | Vite | Tailwind CSS | Next.js
 
 **Backend**  
-Flask | FastAPI  
+Flask | FastAPI | Redis
 
 **AI / ML**  
-TensorFlow | Keras | Scikit-learn | OpenCV  
+TensorFlow | Keras | Scikit-learn | OpenCV | Hugging Face | Unsloth | Pandas | Numpy
 
 **Tools**  
-Docker | Git | Ollama | SQLite  
+Docker | Git | Ollama | SQLite | AWS 
 
 ---
 
